@@ -1,0 +1,23 @@
+{
+  "name": "photoresize",
+  "version": "1.0.0",
+  "description": "Increases a photo's size",
+  "main": "index.js",
+  "dependencies": {
+    "jimp": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDrummer/photoResize.git"
+  },
+  "author": "MrDrummer25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDrummer/photoResize/issues"
+  },
+  "homepage": "https://github.com/MrDrummer/photoResize#readme"
+}
